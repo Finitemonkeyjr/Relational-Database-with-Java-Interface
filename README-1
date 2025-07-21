@@ -1,0 +1,53 @@
+TABLE OF CONTENTS
+
+Final Project.pdf
+	Cover Page....................................................pg. 1
+	Part 1
+		EER/Relational Schema.................................pg. 2
+		Functional Dependencies/Normalization.................pg. 3-4
+		Indexes...............................................pg. 5
+		Views.................................................pg. 6
+		Transactions..........................................pg. 7
+		User Manual
+			Description of Tables.........................pg.8-9
+			Sample Queries................................pg. 10-20
+			Insert........................................pg. 21-23
+			Delete........................................pg. 24-26
+	Part 2
+		Directions for importing java project.................pg. 27
+		Employee Entity Manipulation..........................pg. 28-32
+		Orders Entity Manipulation............................pg. 33
+		Postion Entity Manipulation...........................pg. 34
+		Department Entity Manipulation........................pg. 34
+		User Reports..........................................pg. 35-36
+		Avoiding SQL Injection................................pg. 37
+
+CSV Files Containing Data Imported into Database
+	Department.csv
+	Customer.csv
+	Office.csv
+	Goal.csv
+	Phone.csv
+	Orders.csv
+	Distribution_center.csv
+	Position.csv
+	Task.csv
+	Review.csv
+	Timecard.csv
+	Customer_phone.csv
+	Warehouse.csv
+	Employee.csv
+	Product.csv
+
+Checkpoint4.db
+	file containing database used
+
+Create-2.txt
+	File containing code to create database
+
+Populate-2.txt
+	File containing code to populate the tables within the database
+
+Final Java Submission.zip
+	Java Program that executes manipulations of entities
+		
