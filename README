@@ -22,6 +22,9 @@ Final Project.pdf
 		User Reports..........................................pg. 35-36
 		Avoiding SQL Injection................................pg. 37
 
+Checkpoint4-4.db
+	Relational database for a custom made paper company.
+
 CSV Files Containing Data Imported into Database --> Excluded due to file volume
 	Department.csv
 	Customer.csv
