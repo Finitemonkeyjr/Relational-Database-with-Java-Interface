@@ -22,7 +22,7 @@ Final Project.pdf
 		User Reports..........................................pg. 35-36
 		Avoiding SQL Injection................................pg. 37
 
-CSV Files Containing Data Imported into Database
+CSV Files Containing Data Imported into Database --> Excluded due to file volume
 	Department.csv
 	Customer.csv
 	Office.csv
@@ -38,15 +38,6 @@ CSV Files Containing Data Imported into Database
 	Warehouse.csv
 	Employee.csv
 	Product.csv
-
-Checkpoint4.db
-	file containing database used
-
-Create-2.txt
-	File containing code to create database
-
-Populate-2.txt
-	File containing code to populate the tables within the database
 
 Final Java Submission.zip
 	Java Program that executes manipulations of entities
